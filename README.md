@@ -268,13 +268,6 @@ LLM is strictly instructed to use only provided applicant data and retrieved con
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots of your running app here after launch!
-> `![App Screenshot](screenshots/app.png)`
-
----
-
 ## 🤝 Contributing
 
 Pull requests are welcome! For major changes, please open an issue first.
@@ -289,7 +282,8 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Amisha Singh
+**
 - GitHub: [@your-username](https://github.com/your-username)
 - LinkedIn: [your-linkedin](https://linkedin.com/in/your-profile)
 
