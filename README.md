@@ -284,8 +284,8 @@ This project is licensed under the MIT License.
 
 **Amisha Singh
 **
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-profile)
+- GitHub: [Amisha](https://github.com/Amishasingh2005)
+- LinkedIn: [Amisha_Linkedin](linkedin.com/in/amisha-singh-0680a7312)
 
 ---
 
